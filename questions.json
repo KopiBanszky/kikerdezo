@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "question_path": "imgs/1.jpg",
+        "type": "radio",
+        "answers": [
+            {
+                "id": 1,
+                "answer": "A",
+                "is_correct": true
+            },
+            {
+                "id": 2,
+                "answer": "B",
+                "is_correct": false
+            },
+            {
+                "id": 3,
+                "answer": "C",
+                "is_correct": false
+            },
+            {
+                "id": 4,
+                "answer": "D",
+                "is_correct": false
+            }
+        ]
+    }
+]
